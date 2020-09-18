@@ -15,7 +15,8 @@
 12. Web Server (Apache or NGINX)
 
 ## Output
-<img src=“https://github.com/disha-pishavadia24/dishaTest/blob/master/screenview.png”>
+![output screen](https://github.com/disha-pishavadia24/dishaTest/blob/master/screenview.png)
+
 
 ## Installation
 
