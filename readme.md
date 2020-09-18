@@ -19,13 +19,13 @@
 ## 1 Download the Code
 Clone the Repositry to your web root folder
 
-## 2 Install Vendor Packages
+## 2 Install Packages
 ```sh
 $ composer install
 ```
 
 ## 3 Setup Environment
-create .env file copied from .env.example and configure environment variables in it and replace it with your database creadentials.
+create .env file copied from .env.example and configure environment variables in it and replace it with your database credentials.
 
 
 ## 4 Setup Database
@@ -40,4 +40,4 @@ $ php artisan serve
     
 ## General Note
 
-I have used jquery UI for drad and drop items from left to right and right to left side, By default I have added items to the left side.
+Laravel version 6 with blade template and I have used jquery UI for drag and drop items from left to right and right to left side, By default I have added items to the left side.
