@@ -14,6 +14,9 @@
 11. MySQL
 12. Web Server (Apache or NGINX)
 
+## Output
+<img src=“https://github.com/disha-pishavadia24/dishaTest/blob/master/screenview.png”>
+
 ## Installation
 
 ## 1 Download the Code
@@ -25,7 +28,7 @@ $ composer install
 ```
 
 ## 3 Setup Environment
-create .env file copied from .env.example and configure environment variables in it and replace it with your database credentials.
+rename .env.example to .env file and configure environment variables in it and replace it with your database credentials.
 
 
 ## 4 Setup Database
