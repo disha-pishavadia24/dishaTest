@@ -1,4 +1,4 @@
-<h1 align="center">Items Management API</h1>
+<h1 align="center">Items Management with Sequence Drag & Drop</h1>
 
 ## Requirements
 1. PHP >= 7.2.5
